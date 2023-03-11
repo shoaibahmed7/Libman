@@ -1,0 +1,43 @@
+.kjh{
+    margin-top: 0px;
+    margin-bottom: 30px;
+    margin-left: 40px;
+    background-color: blue;
+    width: 400px;
+    color: gold;
+    background-color: rgb(71, 23, 23);
+    padding-left: 40px;
+    padding-top: 16px;
+   
+    border: 2px solid gold;
+}
+
+.lps{
+    background-color: rgb(71, 23, 23) ;
+    display: flex;
+    flex-wrap: wrap;
+}
+#op{
+    margin-bottom: 20px;
+    padding: 7px 10px;
+    color: gold;
+    background-color: rgb(71, 23, 23) ;
+    border: 2px solid gold;
+}
+#hj{
+    margin-top: 0px;
+   position: relative;
+   right: 22px;
+    border: 1px solid gold;
+    border-radius:60px;
+    width: 30px;
+    padding: 9px 15px;
+    /* justify-content: center; */
+    text-align: center;
+    /* padding-left: 20px; */
+    transition: 0.5s;
+}
+#op:hover{
+    color: rgb(71, 23, 23) ;
+    background-color: gold;
+}

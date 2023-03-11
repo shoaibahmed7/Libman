@@ -1,0 +1,68 @@
+
+.luv{
+    display: flex;
+    background: linear-gradient(to right,rgb(71, 23, 23),rgb(120, 97, 97));
+    height: 630px;
+}
+.porm{
+    /* filter: blur(); */
+    position: relative;
+    top: 10%;
+    left: 30%;
+   padding: 70px 150px;
+   height: 300px;
+ 
+   border: 2px solid gold;
+  background-color: transparent;
+}
+.juty input{
+    padding: 5px 5px;
+    width: 130px;
+   border-top: none;
+   border-left: none;
+   border-right: none;
+   border-bottom: 3px solid gold;
+background-color: transparent;
+opacity: 0.7;
+outline: none;
+}
+.juty label{
+    color: gold;
+}
+.we{
+    background-color: gold;
+    height: 3px;
+    width: 180px;
+    position: relative;
+    left: 440%;
+    top: 8%;
+}
+#re{
+    position: relative;
+    top: 35%;
+    left: 150%;
+    color: gold;
+}
+#had{
+    border: 2px solid gold;
+    background-color: transparent;
+    color: gold;
+    padding: 7px 14px;
+    transition: 0.5s;
+    margin-left: 100px;
+}
+#had:hover{
+    background-color: gold;
+    color: gold;
+    color: #232525;
+}
+#ter{
+    margin: 0px;
+    color: gold;
+    position: relative;
+    top: 100%;
+}
+.con{
+  position: relative;
+  right: 8.8%;
+}

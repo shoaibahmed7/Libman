@@ -1,0 +1,45 @@
+.books_data{
+    background-color: rgb(87, 27, 27) ;
+       padding: 0px 50px;
+}
+.bat{
+    display: flex;
+    border: 2px solid gold;
+    width: 1000px;
+    color: gold;
+    margin-bottom: 40px;
+  
+}
+.con{
+      padding-left: 150px;
+}
+.ber{
+  display: flex;
+  justify-content: space-evenly;
+   margin: 10px;
+}
+.mnn{
+    display: flex;
+    margin-bottom: 20px;
+    margin-left: 50px;
+}
+#ki{
+    text-decoration: none;
+    color: rgb(213, 255, 1);
+    transition: 0.5s;
+    
+}
+#ki:hover{
+    text-decoration: underline;
+}
+#ka{
+    color: gold;
+    background-color: transparent;
+    border: 2px solid gold;
+    padding: 5px 8px;
+    margin-left: 27px;
+}
+#ka:hover{
+    color: #232525;
+    background-color: gold;
+}
